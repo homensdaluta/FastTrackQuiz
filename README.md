@@ -17,7 +17,9 @@ To run the REST API please go to the directory were you cloned the project and g
 There,open a command line nd run these three command:
 
 >go build
+
 >go install
+
 >go run .
 
 And with that the backend will be running
@@ -25,6 +27,7 @@ And with that the backend will be running
 Now go back to the root directory and go to the client folder and run .
 
 >go build
+
 >go install
 
 After that you can use the command "FastTrackuser"
